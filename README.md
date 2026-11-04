@@ -1,7 +1,8 @@
 # insert-delete-updete
-tugas algoritma lanjutan
-Nama : Ira siti rahmah 
-Prodi : pti 
+- tugas algoritma lanjutan
+- nama : Ira siti rahmah 
+- Prodi : pti
+- kelas : B
 
  ## TUGAS PEMROGRAMAN BAHASA C
 
